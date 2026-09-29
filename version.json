@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
-  "changelog": "Weather Assistant Pro ka pehla official release. Auto update, multi-language, desi date, aur notification bar weather support ke sath.",
+  "version": 1.1,
+  "changelog": "What's New in v1.1:\n• Hourly forecast duration customization added (1 to 24 hours).\n• Upcoming days forecast duration added (1 to 7 days).\n• Fixed location search functionality.\n• Replaced 'Tomorrow' with exact Day Names (e.g., Monday, Tuesday) with full translation support.\n• Language translations improved and expanded for all new features.\n• Removed extra and unnecessary permissions for better privacy.",
   "apk_url": "https://github.com/zayanjani93-cmd/Weather-Assistant-Pro/releases/download/v1.0/Weather.Assistant.Pro.By.Tech.for.V.I.apk"
 }
